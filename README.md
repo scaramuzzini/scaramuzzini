@@ -6,6 +6,7 @@ Software engineer working on public health systems since 2014: surveillance tool
 - **Epidemic intelligence.** Built tools that sort thousands of daily news reports so analysts see real public-health signals first. Compared keyword, LLM and embedding approaches and picked the simplest one that held up.
 - **Machine learning on real data.** Co-founded Keep Smiling, a health-tech startup. Our LSTM recognized children's toothbrushing motion from accelerometer data with 95.9% test accuracy, and a dentist validated it clinically.
 - **Research.** Co-author of COVID-19 vaccine-effectiveness studies in *BMJ*, *Nature Communications* and *The Lancet Regional Health – Americas*. M.Sc. in Software Engineering. [ORCID](https://orcid.org/0000-0002-2050-7648)
+- **Teaching.** AI instructor at Samsung Ocean since 2024. I also run Git and R reporting workshops for public-health teams. My class repositories (Android, React, Git, R) are public on this profile.
 
 #### Open source
 
